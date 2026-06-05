@@ -1,10 +1,12 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	const FirstName string = "Derico"
-	const LastName  string = "Liunardo"
+// func main() {
+// 	const (
+// 		FirstName string = "Derico"
+// 		LastName  string = "Liunardo"
+// 	)
 
-	fmt.Println(FirstName,LastName)
-}
+// 	fmt.Println(FirstName,LastName)
+// }
